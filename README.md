@@ -133,6 +133,9 @@ Você pode acessar o [código do projeto](CP2.cpp) ou a [simulação feita no Wo
 
 ## Pessoas Desenvolvedoras do Projeto :globe_with_meridians:
 Paulo Poças -Rm556080
+
 Guilherme Gomes - Rm554606
+
 Pedro Gaspar Fernandes Ferrari - Rm554887
+
 Andre Luiz Fernandes De Queiroz - Rm554503
