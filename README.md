@@ -9,7 +9,6 @@
   * [Descrição do Projeto](#descrição-do-projeto-memo)
      * [Introdução](#introdução-left_speech_bubble)
      * [Inicialização](#inicialização-star2)
-     * [Luminosidade](#luminosidade-bulb)
      * [Temperatura](#temperatura-thermometer)
      * [Umidade](#umidade-droplet)
   * [Acesso ao projeto](#acesso-ao-projeto-file_folder)
