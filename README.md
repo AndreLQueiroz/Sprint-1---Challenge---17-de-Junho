@@ -72,7 +72,6 @@ Você pode acessar o [código do projeto](CP2.cpp) ou a [simulação feita no Wo
 |   LED amarelo  |      1     |
 |  LED vermelho  |      1     |
 | Buzzer (Piezo) |      1     |
-| Módulo LDR - 4 terminais |      1     |
 |   LCD 16x2 com módulo I2C    |      1     |
 |      Cabo      |     19     |
 |    Cabo USB    |      1     |
