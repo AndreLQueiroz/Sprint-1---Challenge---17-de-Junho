@@ -31,10 +31,6 @@
 <p>
  Ao ligar o dispositivo, o Buzzer tocará um som e todos os LED's piscarão. Implementamos isso pois isso verificará se os LED's e o Buzzer estão funcionando. Após isso, o logo da nossa empresa aparece no display (LCD). Em seguida, ele mostra os valores da luminosidade, temperatura e umidade 10 vezes cada. Depois, exibe a média desses valores. E então, o ciclo recomeça.
 </p>
-<h3>Luminosidade :bulb:</h3>
-<p>
-  Como discutido na primeira parte do projeto, a exposição à luminosidade excessiva e à penumbra pode causar danos à qualidade do vinho. Levando isso em consideração, além da indicação se o ambiente está escuro, com meia luz ou iluminado pelos LEDs, essa informação será visível no display (LCD), assim como a quantidade de luminosidade em lux. Por fim, a buzina (Buzzer) que emitia o alarme apenas por 3 segundos agora tocará continuamente.
-</p>
 <h3>Umidade :droplet:</h3>
 <p>
   Além da temperatura, a ausência de umidade pode resultar na secagem do vedante, ocasionando uma vedação inadequada da garrafa e aumentando o risco de oxidação do líquido. Enquanto isso, um excesso de umidade pode causar danos aos rótulos e favorecer o crescimento de fungos. Portanto, o nível ideal de umidade deve ser em torno de 70%, com uma margem de variação entre 50% e 70%.
