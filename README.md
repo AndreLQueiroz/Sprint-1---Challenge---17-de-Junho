@@ -40,7 +40,7 @@
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar o [código do projeto](CP2.cpp) ou a [simulação feita no Wooki](https://wokwi.com/projects/395351900975891457)
+Você pode acessar a [simulação feita no Wooki](https://wokwi.com/projects/398139770432957441)
 
 ## Ferramenta utilizada :hammer_and_wrench:
 
