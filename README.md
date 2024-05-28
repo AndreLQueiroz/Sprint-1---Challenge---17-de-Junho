@@ -24,7 +24,7 @@
 
 <h3>Introdução :left_speech_bubble:</h3>
 <p>
-  Nós, L.A.N.E., após a entrega da primeira parte do projeto, recebemos um feedback da Vinheria Agnello, no qual solicitaram novas funcionalidades para o dispositivo, que consistiam em mostrar os dados em um display (LCD) e captar, além da luminosidade, os valores de umidade e temperatura. Isso ocorre porque o sabor do vinho não é alterado apenas pela exposição à muita luminosidade, mas também pela umidade e temperatura. Com isso em mente, nesta segunda parte, implementamos essas funções e aprimoramos o projeto.
+  Nós, NEXT STAGE,recebemos um feedback da Vinheria Agnello, no qual solicitaram novas funcionalidades para o dispositivo, que consistiam em mostrar os dados em um display (LCD) e captar, além da luminosidade, os valores de umidade e temperatura. Isso ocorre porque o sabor do vinho não é alterado apenas pela exposição à muita luminosidade, mas também pela umidade e temperatura. Com isso em mente, nesta segunda parte, implementamos essas funções e aprimoramos o projeto.
 </p>
 <h3>Inicialização :star2:</h3>
 <p>
