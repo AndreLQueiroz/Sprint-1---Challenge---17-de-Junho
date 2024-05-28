@@ -1,7 +1,7 @@
 
 # Sprint-1---Challenge---17-de-Junho 
 
-![banner](https://github.com/L-A-N-E/CP2_Edge_1SEM/assets/153787379/132308ff-27a0-45e7-8323-80d9103f2390)
+![banner](https://cdn.discordapp.com/attachments/918978946652069899/1245015530180575313/IMG_5058.png?ex=66573691&is=6655e511&hm=e0c6070641f3443e574d47c658deb85d147371003958fa1ed4f7a7fc2caee32b&)
 
 
 ## Índice :page_with_curl:
