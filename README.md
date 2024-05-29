@@ -32,9 +32,6 @@
 </p>
 <h3>Umidade :droplet:</h3>
 <p>
-  Além da temperatura, a ausência de umidade pode resultar na secagem do vedante, ocasionando uma vedação inadequada da garrafa e aumentando o risco de oxidação do líquido. Enquanto isso, um excesso de umidade pode causar danos aos rótulos e favorecer o crescimento de fungos. Portanto, o nível ideal de umidade deve ser em torno de 70%, com uma margem de variação entre 50% e 70%.
-</p>
-<p>
   Diante disso, utilizamos o mesmo sensor, o DHT11, que captura a temperatura da adega, já que ele também captura a umidade do ambiente. Além disso, indicará se a umidade está alta, baixa ou na faixa ideal, entre 50% e 70%. Essas informações também são mostradas no display (LCD). Quando a umidade estiver fora da situação ideal, o LED vermelho será aceso e a buzina (Buzzer) tocará continuamente.
 </p>
 
