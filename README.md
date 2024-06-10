@@ -1,8 +1,6 @@
 
 # Sprint-1---Challenge---17-de-Junho 
 
-![banner](https://cdn.discordapp.com/attachments/918978946652069899/1245019147142828052/banner.jpg?ex=665739f0&is=6655e870&hm=ff0e19591774ad0cdd0948a51cb83a5d93e07574d235e147b719be09da362ba7&)
-
 
 ## Índice :page_with_curl:
 
