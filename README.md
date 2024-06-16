@@ -22,8 +22,7 @@
 
 <h3>Introdução :left_speech_bubble:</h3>
 <p>
-  Nós, NEXT STAGE, Gostaria de compartilhar com vocês o nosso projeto de Arduino, que se dedica à medição de umidade e luminosidade. A ideia surgiu da necessidade de monitorar essas duas importantes variáveis ambientais, o que pode ser extremamente útil em diversas aplicações, como o controle de estufas, jardins inteligentes e até mesmo em estudos ambientais.
-</p>
+  Nós, NEXT STAGE, gostariamos de mostrar no projeto de arduino que consiste em mostrar a humidade e a temperatura da pista para nao ocorrer nenhum problema durante a corrida, pois alguns dos problemas notados e que as pistas da Formula E nem sempre sao bem revisionadas perante isso gostariamos de mostrar nosso projeto.
 <h3>Inicialização :star2:</h3>
 <p>
  Ao ligar o dispositivo, o Buzzer tocará um som e todos os LED's piscarão. Implementamos isso pois isso verificará se os LED's e o Buzzer estão funcionando. Após isso, o logo da nossa empresa aparece no display (LCD). Em seguida, ele mostra os valores da temperatura e umidade 10 vezes cada. Depois, exibe a média desses valores. E então, o ciclo recomeça.
